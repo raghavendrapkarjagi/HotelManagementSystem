@@ -162,4 +162,28 @@ HotelWebApp/
 
 └── WEB-INF/web.xml
 
+------------------------------------------------------------------------------------------------🖼️ Screenshots
+
+![image alt](https://github.com/raghavendrapkarjagi/HotelManagementSystem/blob/main/output_screenshot/indexpage.png)
+
+![image alt](https://github.com/raghavendrapkarjagi/HotelManagementSystem/blob/main/output_screenshot/addreservation.png)
+
+![image alt](https://github.com/raghavendrapkarjagi/HotelManagementSystem/blob/main/output_screenshot/updatereservation1.png)
+
+![image alt](https://github.com/raghavendrapkarjagi/HotelManagementSystem/blob/main/output_screenshot/updatereservation2.png)
+
+![image alt](https://github.com/raghavendrapkarjagi/HotelManagementSystem/blob/main/output_screenshot/updatereservation3.png)
+
+![image alt](https://github.com/raghavendrapkarjagi/HotelManagementSystem/blob/main/output_screenshot/cancelreservation1.png)
+
+![image alt](https://github.com/raghavendrapkarjagi/HotelManagementSystem/blob/main/output_screenshot/cancelreservation2.png)
+
+![image alt](https://github.com/raghavendrapkarjagi/HotelManagementSystem/blob/main/output_screenshot/viewreservation.png)
+
+![image alt](https://github.com/raghavendrapkarjagi/HotelManagementSystem/blob/main/output_screenshot/report1.png)
+
+![image alt](https://github.com/raghavendrapkarjagi/HotelManagementSystem/blob/main/output_screenshot/report2.png)
+
+![image alt](https://github.com/raghavendrapkarjagi/HotelManagementSystem/blob/main/output_screenshot/report3.png)
+
 
