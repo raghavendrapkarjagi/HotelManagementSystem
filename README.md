@@ -112,29 +112,52 @@ Server: Apache Tomcat
 
 Project Structure:
 
-*/HotelWebApp/
-*/├── WebContent/
-*/│ ├── index.jsp
+HotelWebApp/
+
+├── WebContent/
+
+│ ├── index.jsp
+
 │ ├── reservationadd.jsp
+
 │ ├── reservationupdate.jsp
+
 │ ├── reservationdelete.jsp
+
 │ ├── reservationdisplay.jsp
+
 │ ├── reports.jsp
+
 │ ├── report_form.jsp
+
 │ └── report_result.jsp
+
 ├── src/
+
 │ ├── com/
+
 │ ├── dao/
+
 │ │ └── ReservationDAO.java
+
 │ ├── model/
+
 │ │ └── Reservation.java
+
 │ └── servlet/
+
 │ ├── AddReservationServlet.java
+
 │ ├── UpdateReservationServlet.java
+
 │ ├── DeleteReservationServlet.java
+
 │ ├── DisplayReservationsServlet.java
+
 │ ├── ReportServlet.java
+
 │ └── ReportCriteriaServlet.java
+
 └── WEB-INF/web.xml
 
 
