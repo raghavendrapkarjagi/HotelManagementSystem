@@ -112,9 +112,9 @@ Server: Apache Tomcat
 
 Project Structure:
 
-HotelWebApp/
-├── WebContent/
-│ ├── index.jsp
+*/HotelWebApp/
+*/├── WebContent/
+*/│ ├── index.jsp
 │ ├── reservationadd.jsp
 │ ├── reservationupdate.jsp
 │ ├── reservationdelete.jsp
